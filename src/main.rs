@@ -13,7 +13,7 @@ use std::vec::Vec;
 
 #[get("/")]
 fn default() -> String {
-    format!("Hello World!")
+    format!("Hello gros pd pd pd ")
 }
 
 #[get("/cached")]
